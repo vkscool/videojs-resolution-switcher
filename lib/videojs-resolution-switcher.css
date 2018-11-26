@@ -1,4 +1,4 @@
-.vjs-resolution-button .vjs-menu-icon:before {
+.vjs-resolution-button .vjs-icon-placeholder:before {
   content: '\f110';
   font-family: VideoJS;
   font-weight: normal;
@@ -17,6 +17,7 @@
   height: 100%;
   text-align: center;
   box-sizing: inherit;
+  background-color:rgba(43, 51, 63, 1);
 }
 
 .vjs-resolution-button .vjs-menu .vjs-menu-content {
